@@ -1,6 +1,8 @@
 # 📊 Proyecto de Bot de Trading de Bitcoin
 
 
+  ![image](https://github.com/wechavar/Graficos/blob/main/Robottrading.jpg)
+
 ## 📈 Objetivo del Proyecto
 Este proyecto tiene como objetivo crear un bot de trading automatizado que analice el comportamiento del precio de Bitcoin en tiempo real y tome decisiones de compra, venta o mantener, basándose en medias móviles simples y tendencias de mercado.
 
